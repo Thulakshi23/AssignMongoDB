@@ -142,6 +142,7 @@ test> db.moviedetails.distinct("director")
     "Rajkumar Periasamy",
     "Siva"
 ]
+``` 
 
 
 
